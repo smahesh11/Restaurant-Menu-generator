@@ -1,0 +1,16 @@
+Steps:
+
+1.Import the project to your Ide.
+2.Right click on the project name in package explorer
+3.Select Run as-> Java Application
+
+The UI will appear.
+
+4.Select your choice and click on SUbmit.
+The files are created.
+
+
+Input Files-FoodItemData.xml and FoodItemData.json 
+are in 'InputFiles' Folder
+
+Output Files-MenuText.txt/ MenuHTML.html/MenuXML are created in the same workspace
